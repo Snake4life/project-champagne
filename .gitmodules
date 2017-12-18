@@ -1,0 +1,3 @@
+[submodule "champagne-api"]
+	path = champagne-api
+	url = https://github.com/Gooseforge/champagne-api.git
