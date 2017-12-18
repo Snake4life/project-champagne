@@ -1,3 +1,6 @@
 [submodule "champagne-api"]
 	path = champagne-api
 	url = https://github.com/Gooseforge/champagne-api.git
+[submodule "champagne-client"]
+	path = champagne-client
+	url = https://github.com/Gooseforge/champagne-client.git
