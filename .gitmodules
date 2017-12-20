@@ -7,3 +7,6 @@
 [submodule "champagne-docs"]
 	path = champagne-docs
 	url = https://github.com/Gooseforge/champagne-docs.git
+[submodule "champagne-locales"]
+	path = champagne-locales
+	url = https://github.com/Gooseforge/champagne-locales
